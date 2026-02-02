@@ -11,3 +11,4 @@ wheels/
 
 #added by Tyler
 game_state.jsonl
+game_events.jsonl
